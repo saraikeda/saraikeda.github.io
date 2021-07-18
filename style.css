@@ -15,3 +15,14 @@ h2 {
 p {
     color: navy;
 }
+
+.header-list {
+    list-style: none;
+    color:navy;
+    float: left;
+}
+
+header {
+    background-color:powderblue
+    
+}
