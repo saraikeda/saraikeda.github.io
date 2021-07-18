@@ -16,13 +16,12 @@ p {
     color: navy;
 }
 
-.header-list li{
-    list-style: none;
-    color:navy;
-    float: left;
+text-area {
+    width: 400px;
+
 }
 
-header {
+.header {
     background-color:powderblue
 
 }
