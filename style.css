@@ -22,10 +22,17 @@ text-area {
 }
 
 .header {
-    background-color:powderblue
+    background-color:powderblue;
 
 }
 
 .header > ul > li {
      color: rgb(99, 45, 185);
+     float: left;
+     list-style: none;
+     padding: 20px;
+}
+
+.clear {
+    clear: both;
 }
