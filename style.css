@@ -25,3 +25,7 @@ text-area {
     background-color:powderblue
 
 }
+
+.header > ul > li {
+     color: rgb(99, 45, 185);
+}
