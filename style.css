@@ -1,28 +1,39 @@
 h1 {
-    color:navy;
-    font-size: large;
+    color:slateblue;
+    font-size: 40px;
+}
+
+.intro {
+    text-align: center;
 }
 
 body {
-    background-color: rgb(255, 215, 221);
+    background-color: rgb(255, 255, 255);
     
 }
 
-h2 {
+h2, h4 {
     color:mediumpurple; 
+    font-size: 30px;
 }
 
 p {
     color: navy;
 }
 
+.section-title {
+      color: mediumpurple;
+}
+
 text-area {
     width: 400px;
+    height: 800px;
 
 }
 
 .header {
     background-color:powderblue;
+    height: 60px;
 
 }
 
@@ -36,3 +47,20 @@ text-area {
 .clear {
     clear: both;
 }
+
+li {
+    list-style: none;
+    color: mediumpurple;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    margin-right: 30px;
+
+}
+
+.comic-info {
+    display: flex;
+}
+
