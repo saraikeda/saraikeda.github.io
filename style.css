@@ -1,14 +1,17 @@
 h1 {
-    color: rgb(15, 189, 219);
-    background-color:darkblue;
-    }
-
-body {
-    background-color: lightcyan;
+    color:navy;
+    font-size: large;
 }
 
-li {
-    list-style: none;
-    float: left;
-    padding: 20px 30px 20px 30px;
+body {
+    background-color: rgb(255, 215, 221);
+    
+}
+
+h2 {
+    color:mediumpurple; 
+}
+
+p {
+    color: navy;
 }
