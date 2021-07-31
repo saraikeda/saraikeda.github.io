@@ -51,6 +51,7 @@ text-area {
 li {
     list-style: none;
     color: mediumpurple;
+	
 }
 
 img {
@@ -77,6 +78,42 @@ h5 {
 .summary {
     border-bottom: dashed 4px #6a5acd;
     padding-bottom: 40px;
+}
+
+.comic-scene{
+	width: 400px;
+	height: 250px;
+	float: right;
+}
+
+.banana {
+	width: 500px;
+	height: 250px;
+	float: right;
+}
+
+.bokuoutto {
+	width: 600px;
+	height: 250px;
+	float: right;
+}
+
+.eren {
+	width: 400px;
+	height: 250px;
+	float: right;
+}
+
+.gojo {
+	width: 400px;
+	height: 300px;
+	float: right;
+}
+
+.shoko {
+	width: 450px;
+	height: 300px;
+	float:right;
 }
 
 
